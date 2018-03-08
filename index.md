@@ -2,7 +2,7 @@
 
 <img src="images/coffee.jpg" alt="hi" class="inline"/>
 
-When I first started in graduate school my process for performing/presenting experiments was more of a 'shoot from the hip' approach rather than one that followed a systematic protocol. Fortunately I was taught a systematic protocol that is not only easy to follow, but also easily translates to an experimental outline for a research paper. Without further ado,  here is an example of the protocol on a groundbreaking study (spoiler alert: yes, I just needed to be reminded of the scientific method from 5th grade...). 
+When I first started in graduate school my process for performing/presenting experiments was more of a 'shoot from the hip' approach rather than one that followed a systematic protocol. Fortunately, I was taught a systematic protocol that is not only easy to follow, but also easily translates to an experimental outline for a research paper. Without further ado,  here is an example of the protocol on a groundbreaking study (spoiler alert: yes, I just needed to be reminded of the scientific method from 5th grade...). 
 
 ## Hypothesis
 
