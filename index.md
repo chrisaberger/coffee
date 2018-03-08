@@ -4,6 +4,8 @@
 
 When I first started in graduate school my process for performing/presenting experiments was more of a 'shoot from the hip' approach rather than one that followed a systematic protocol. Fortunately, I was taught a systematic protocol that is not only easy to follow, but also easily translates to an experimental outline for a research paper. Without further ado,  here is an example of the protocol on a groundbreaking study (spoiler alert: yes, I just needed to be reminded of the scientific method from 5th grade...). 
 
+*Note, the remainder of this post is taken from a document that has been circulated in the [HazyResearch](https://twitter.com/HazyResearch) lab for years. It is unclear to me who wrote it, but they should get the credit.*
+
 ## Hypothesis
 
 Caffeine makes graduate students more productive.
