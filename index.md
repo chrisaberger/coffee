@@ -2,7 +2,7 @@
 
 <img src="images/coffee.jpg" alt="hi" class="inline"/>
 
-When I first started in graduate school my process for setting up experiments was more like a 'shoot from the hip' approach rather than following a systematic protocol. Fortunately, I was taught a systematic protocol that is easy to follow and is easy to translate to an experiments section in a paper. Without further ado here is the protocol that I found succesful for setting up and reporting preliminary experimental results (spoiler alert: yes, I just needed to be reminded to follow the scientific protocol I learned in 5th grade...). 
+When I first started in graduate school my process for setting up and presenting experiments was more of a 'shoot from the hip' approach rather than one that followed a systematic protocol. Fortunately, I was taught a systematic protocol that is not only easy to follow but also has a direct translation to how an experiments section should be written in a paper. Without further ado here is an example of the protocol on a very important study (spoiler alert: yes, I just needed to be reminded to follow the scientific protocol I learned in 5th grade...). 
 
 ### Hypothesis
 
