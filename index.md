@@ -2,36 +2,58 @@
 
 <img src="images/coffee.jpg" alt="hi" class="inline"/>
 
-When I first started in graduate school my process for setting up experiments was more like a 'shoot from the hip' approach rather than following a systematic protocol. Fortunately, I was taught a systematic protocol that is easy to follow. Without further ado here is the exact protocol that I found succesful for setting up and reporting preliminary experimental results (spoiler: it looks just like the scientific protocol you learned in 5th grade...). 
+When I first started in graduate school my process for setting up experiments was more like a 'shoot from the hip' approach rather than following a systematic protocol. Fortunately, I was taught a systematic protocol that is easy to follow and is easy to translate to an experiments section in a paper. Without further ado here is the protocol that I found succesful for setting up and reporting preliminary experimental results (spoiler alert: yes, I just needed to be reminded to follow the scientific protocol I learned in 5th grade...). 
 
-### Markdown
+### Hypothesis
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Caffeine makes graduate students more productive.
 
-```markdown
-Syntax highlighted code block
+### Proxy
 
-# Header 1
-## Header 2
-### Header 3
+To measure the productivity of graduate students, we use the time it takes to complete their
+PhD as the proxy. To measure the caffeine that each student takes, we use the
+number of cups of coffee a students drinks as the proxy.
 
-- Bulleted
-- List
+*Note that we do not count caffeine that comes from other sources such as tea or soda.*
 
-1. Numbered
-2. List
+### Protocol
 
-**Bold** and _Italic_ and `Code` text
+Out of the 100 students in our school, have them report the mean cups of coffee they drink
+each week. Also, record the date they start their PhD and the date they get their PhD. Only
+consider students who have left the school with a PhD.
 
-[Link](url) and ![Image](src)
-```
+*Note that if a student is very productive, but dies of caffeine toxicity days before they finish
+their PhD, they will not be counted.*
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+*Note that since we record mean cups of coffee per week, we do not capture information about
+increases or decreases throughout their PhD.*
 
-### Jekyll Themes
+### Expected Results
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/craberger/coffee/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We expect that students without caffeine take a long time to get their PhD; students who drink
+a lot of caffeine finish their PhD very quickly. But drinking too much caffeine would cause
+caffeine toxicity and would length the time to get a PhD due to psychosis. In short, we expect
+a convex curve like the one below.
 
-### Support or Contact
+<img src="images/chart1.png" alt="hi" class="inline"/>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Since it is convex, this implies there is some optimal amount of coffee to drink to minimize the
+time spent working on a PhD.
+
+### Results
+
+The results match our expected results. We observe that the knee of the curve is at
+approximately 30 cups of coffee per week with a PhD in 36 months; this seems to be the
+optimal amount of coffee to drink to be a productive graduate student.
+
+<img src="images/chart2.png" alt="hi" class="inline"/>
+
+Note that there seems to be an outlier who drinks about 60 cups of coffee a week but finished
+their PhD in 19 months. We tracked down this student and found out that they drink 5 large
+iced Americanos a day. Upon further testing, we discovered that this student is immune to
+caffeine toxicity.
+
+Raw data for results are stored here:
+
+https://docs.google.com/spreadsheet/ccc?key=<put_data_here>
+
