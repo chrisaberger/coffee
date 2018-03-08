@@ -2,9 +2,7 @@
 
 <img src="images/coffee.jpg" alt="hi" class="inline"/>
 
-You can use the [editor on GitHub](https://github.com/craberger/coffee/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+When I first started in graduate school my process for setting up experiments was more like a 'shoot from the hip' approach rather than following a systematic protocol. Fortunately, I was taught a systematic protocol that is easy to follow. Without further ado here is the exact protocol that I found succesful for setting up and reporting preliminary experimental results (spoiler: it looks just like the scientific protocol you learned in 5th grade...). 
 
 ### Markdown
 
