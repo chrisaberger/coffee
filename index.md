@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## The Coffee Experiment!
+
+![alt text](https://github.com/craberger/coffee/blob/master/images/coffee.jpg "Mmmmm Coffee...")
+
 
 You can use the [editor on GitHub](https://github.com/craberger/coffee/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
